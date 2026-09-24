@@ -1,0 +1,534 @@
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:31.221887] Updated app with guid dad81658-f021-4cc0-9bfc-3be4499c725a ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:31.330666] Updating process: "web" (STDOUT, API)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:49.873988] Uploading app package for app with guid dad81658-f021-4cc0-9bfc-3be4499c725a (STDOUT, API)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:50.063832] Updated app with guid dad81658-f021-4cc0-9bfc-3be4499c725a ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.126761] Creating build for app with guid dad81658-f021-4cc0-9bfc-3be4499c725a (STDOUT, API)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.597192] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.645992] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.646118] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:01.677838] Security group rules were updated (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:01.795918] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.459374] Downloading app package... (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.459906] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.551642] Downloaded build artifacts cache (221B) (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.813973] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.978185] -----> Nodejs Buildpack version 1.9.3 (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:03.172749] -----> Bootstrapping python (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:03.172805] -----> Installing python 3.13.14 (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:03.173647] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/4b4266a2ff36730aef37b88b668ca327/python_3.13.14_linux_x64_cflinuxfs4_b80d4954.tgz] (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719450] -----> Installing binaries (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719611] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719742] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719844] -----> Installing node 24.18.0 (STDOUT, STG)#
+#2026 09 16 10:11:09.815#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15938#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.720133] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/dffbbb835fcd073c4544f78eb6247fac/node_24.18.0_linux_x64_cflinuxfs4_cdfed650.tgz] (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.129166] Using default npm version: 11.16.0 (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.129223] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.129387] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.731595] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.731653] -----> Creating runtime environment (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734213] NODE_ENV=production (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734271] NODE_HOME=/tmp/contents2316528913/deps/0/node (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734276] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734305] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734311] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734321] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734397] -----> Building dependencies (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734404] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734575] Rebuilding any native modules (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:13.560907] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:13.650661] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:14.430311] up to date in 635ms (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:14.430677] 4 packages are looking for funding (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:14.430815] run `npm fund` for details (STDOUT, STG)#
+#2026 09 16 10:11:19.900#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15948#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:15.538899] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 09 16 10:11:30.521#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14077#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.871986] Exit status 0 (STDOUT, STG)#
+#2026 09 16 10:11:30.521#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14077#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.872075] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 09 16 10:11:30.521#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14077#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.872139] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 09 16 10:11:30.521#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14077#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.872168] Uploading droplet... (STDOUT, STG)#
+#2026 09 16 10:11:30.521#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14077#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.909911] Uploaded build artifacts cache (224B) (STDOUT, STG)#
+#2026 09 16 10:11:30.521#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14077#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:27.697154] Creating droplet for app with guid dad81658-f021-4cc0-9bfc-3be4499c725a (STDOUT, API)#
+#2026 09 16 10:11:40.229#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15965#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:33.765823] Uploaded droplet (59.2M) (STDOUT, STG)#
+#2026 09 16 10:11:40.229#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15965#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:33.796754] Uploading complete (STDOUT, STG)#
+#2026 09 16 10:11:40.229#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15965#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:34.372449] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:40.229#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15965#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:34.372533] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:40.229#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15965#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:34.419784] Staging complete for build 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, API)#
+#2026 09 16 10:11:40.229#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15965#
+[PollStageAppStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:37.888114] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:31.221887] Updated app with guid dad81658-f021-4cc0-9bfc-3be4499c725a ({"lifecycle"=>{"data"=>{"buildpacks"=>["nodejs_buildpack"]}, "type"=>"buildpack"}}) (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:31.330666] Updating process: "web" (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:49.873988] Uploading app package for app with guid dad81658-f021-4cc0-9bfc-3be4499c725a (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:10:50.063832] Updated app with guid dad81658-f021-4cc0-9bfc-3be4499c725a ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.126761] Creating build for app with guid dad81658-f021-4cc0-9bfc-3be4499c725a (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.597192] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.645992] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:00.646118] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:01.677838] Security group rules were updated (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:01.795918] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.459374] Downloading app package... (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.459906] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.551642] Downloaded build artifacts cache (221B) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.813973] Downloaded app package (2.3M) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:02.978185] -----> Nodejs Buildpack version 1.9.3 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:03.172749] -----> Bootstrapping python (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:03.172805] -----> Installing python 3.13.14 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:03.173647] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/4b4266a2ff36730aef37b88b668ca327/python_3.13.14_linux_x64_cflinuxfs4_b80d4954.tgz] (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719450] -----> Installing binaries (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719611] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719742] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.719844] -----> Installing node 24.18.0 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:08.720133] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/dffbbb835fcd073c4544f78eb6247fac/node_24.18.0_linux_x64_cflinuxfs4_cdfed650.tgz] (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.129166] Using default npm version: 11.16.0 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.129223] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.129387] Copy [/tmp/buildpacks/336fb825d4d72bff/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.731595] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.731653] -----> Creating runtime environment (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734213] NODE_ENV=production (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734271] NODE_HOME=/tmp/contents2316528913/deps/0/node (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734276] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734305] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734311] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734321] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734397] -----> Building dependencies (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734404] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:12.734575] Rebuilding any native modules (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:13.560907] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:13.650661] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:14.430311] up to date in 635ms (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:14.430677] 4 packages are looking for funding (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:14.430815] run `npm fund` for details (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:15.538899] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.871986] Exit status 0 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.872075] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.872139] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.872168] Uploading droplet... (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:26.909911] Uploaded build artifacts cache (224B) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:27.697154] Creating droplet for app with guid dad81658-f021-4cc0-9bfc-3be4499c725a (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:33.765823] Uploaded droplet (59.2M) (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:33.796754] Uploading complete (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:34.372449] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:34.372533] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:34.419784] Staging complete for build 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:37.888114] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 0cf020c8-fad5-4be7-9f8f-0096ebefbf90 (STDOUT, STG)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:40.301741] Updated app with guid dad81658-f021-4cc0-9bfc-3be4499c725a ({:droplet_guid=>"216fdb94-0ed1-4b4d-ae0f-c2dbd28e6d17"}) (STDOUT, API)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:40.848877] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance da9910e4-4183-45bc-9349-f2b2f5725cf3 (STDOUT, CELL)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:41.716223] Security group rules were updated (STDOUT, CELL)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:41.817731] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance da9910e4-4183-45bc-9349-f2b2f5725cf3 (STDOUT, CELL)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:46.124777] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:46.342514] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:46.883007] > start (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:46.883045] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.040463] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041131] { (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041155] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041160] { (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041174] "name": "AiCap-db", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041180] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041184] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041187] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041198] "schema": "9311B6CBD15E4D128387DBA8840204D3", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041200] "database_id": "d7e226ec-d1db-485a-8583-3dc0d0aca49d", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041204] "user": "9311B6CBD15E4D128387DBA8840204D3_DHS5TH8ZTWYQAYVE6ICKDATRJ_RT", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041207] "hdi_user": "9311B6CBD15E4D128387DBA8840204D3_DHS5TH8ZTWYQAYVE6ICKDATRJ_DT" (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041209] }, (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041211] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041214] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041216] "database", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041218] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041220] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041222] } (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041224] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.041235] } (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.561525] @sap/hdi-deploy, version 5.7.0 (mode default), server version 4.00.000.00.1785229725 (4.0.0.0), cloud version 2026.14.13, node version 24.18.0, HDI version 1016, container API version 1007 (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.561575] Deployment started at 2026-09-16 10:11:47 (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.561935] Using hdb@2.29.6 for connection (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.581409] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.581716] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.584607] Collecting files... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.584684] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.584764] 6 files collected (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.584833] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.584876] Target service: AiCap-db (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.792130] Could not determine status of last build: Could not find any information about the previous deployment. (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.792190] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.792351] Processing revoke files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.792495] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.792568] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.795516] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.795620] Preprocessing files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.795717] Connecting to the container "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.884113] Connecting to the container "9311B6CBD15E4D128387DBA8840204D3"... ok (0s 88ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:47.884148] Locking the container "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.106224] Locking the container "9311B6CBD15E4D128387DBA8840204D3"... ok (0s 222ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.106257] Synchronizing files with the container "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.347427] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.502653] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.502701] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.502994] Writing 9 items (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857449] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857484] Synchronizing files with the container "9311B6CBD15E4D128387DBA8840204D3"... ok (0s 751ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857855] added files: [ (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857874] "src/gen/.hdiconfig", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857886] "src/gen/.hdinamespace", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857889] "src/gen/CatalogService.Books.hdbtable", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857892] "src/gen/cds.outbox.Messages.hdbtable", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857894] "src/gen/data/CatalogService.Books.csv", (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857904] "src/gen/data/CatalogService.Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857906] ] (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857908] modified files: [] (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.857920] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.858008] 6 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.858419] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.858430] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.858434] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:48.858524] Deploying to the container "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.469589] Polling messages for request id: 277 (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508282] Starting make in the container "9311B6CBD15E4D128387DBA8840204D3" with 6 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508315] Disabling table replication for the container schema "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508319] Disabling table replication for the container schema "9311B6CBD15E4D128387DBA8840204D3"... ok (0s 18ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508421] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508453] Migrating libraries... ok (0s 18ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508457] Making... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508460] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:11:50.397#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-14102#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:49.508475] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.522939] Deploying the configuration file "src/gen/.hdiconfig"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.522974] Preparing the make transaction... ok (0s 540ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.522981] Deploying the configuration file "src/gen/.hdiconfig"... ok (0s 112ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.522984] Deploying the namespace file "src/gen/.hdinamespace"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523485] Deploying the namespace file "src/gen/.hdinamespace"... ok (0s 25ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523510] Adding "src/gen/CatalogService.Books.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523723] Adding "src/gen/CatalogService.Books.hdbtable" for deploy... ok (0s 30ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523731] Adding "src/gen/cds.outbox.Messages.hdbtable" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523735] Adding "src/gen/cds.outbox.Messages.hdbtable" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523738] Adding "src/gen/data/CatalogService.Books.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523740] Adding "src/gen/data/CatalogService.Books.csv" for deploy... ok (0s 52ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523742] Adding "src/gen/data/CatalogService.Books.hdbtabledata" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523747] Adding "src/gen/data/CatalogService.Books.hdbtabledata" for deploy... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523754] Preparing... ok (0s 713ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523756] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523770] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523774] Expanding "src/gen/CatalogService.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523778] Expanding "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523798] Expanding "src/gen/data/CatalogService.Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523911] Expanding "src/gen/data/CatalogService.Books.hdbtabledata"... ok (0s 4ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523938] Expanding "src/gen/CatalogService.Books.hdbtable"... ok (0s 17ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523961] Expanding "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 15ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523966] Expanding... ok (0s 68ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523970] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523976] Precompiling "src/gen/CatalogService.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.523990] Precompiling "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524021] Precompiling "src/gen/data/CatalogService.Books.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524037] Precompiling "src/gen/data/CatalogService.Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524086] Precompiling "src/gen/data/CatalogService.Books.hdbtabledata"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524119] Precompiling "src/gen/data/CatalogService.Books.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524172] Expanded from "src/gen/data/CatalogService.Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524257] Precompiling "src/gen/data/CatalogService.Books.csv"... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524362] Precompiling "src/gen/data/CatalogService.Books.hdbtabledata$0.expand"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524455] Precompiling "src/gen/CatalogService.Books.hdbtable"... ok (0s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524547] Precompiling "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 13ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524643] Precompiling... ok (0s 45ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524738] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524841] Merging... ok (0s 44ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.524933] Calculating dependencies... ok (0s 157ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525023] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525130] Deploying "src/gen/CatalogService.Books.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525202] Deploying "src/gen/cds.outbox.Messages.hdbtable"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525292] Deploying "src/gen/data/CatalogService.Books.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525373] Deploying "src/gen/data/CatalogService.Books.csv"... ok (0s 194ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525451] Deploying "src/gen/data/CatalogService.Books.hdbtabledata"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525536] Deploying "src/gen/data/CatalogService.Books.hdbtabledata"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525611] Deploying "src/gen/cds.outbox.Messages.hdbtable"... ok (0s 205ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525699] Deploying "src/gen/CatalogService.Books.hdbtable"... ok (0s 206ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525770] Deploying "src/gen/data/CatalogService.Books.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.525844] Expanded from "src/gen/data/CatalogService.Books.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.990769] Inserted 6 records of the data source file "CatalogService.Books.csv" into the target table "CATALOGSERVICE_BOOKS" (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.990942] Deploying "src/gen/data/CatalogService.Books.hdbtabledata$0.expand"... ok (0s 475ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.990984] Processing work list... ok (0s 704ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.990993] Finalizing... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.990996] Finalizing... ok (0s 100ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.991] Make succeeded (0 warnings): 6 files deployed (effective 7), 0 files undeployed (effective 0), 0 dependent files redeployed (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.991019] Making... ok (1s 812ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.991022] Enabling table replication for the container schema "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.991053] Enabling table replication for the container schema "9311B6CBD15E4D128387DBA8840204D3"... ok (0s 9ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.991131] Starting make in the container "9311B6CBD15E4D128387DBA8840204D3" with 6 files to deploy, 0 files to undeploy... ok (1s 881ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.991253] Deploying to the container "9311B6CBD15E4D128387DBA8840204D3"... ok (2s 133ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.992316] No default-access-role handling needed; global role "9311B6CBD15E4D128387DBA8840204D3::access_role" will not be adapted (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.992594] Unlocking the container "9311B6CBD15E4D128387DBA8840204D3"... (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.993350] Unlocking the container "9311B6CBD15E4D128387DBA8840204D3"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.993550] Deployment to container 9311B6CBD15E4D128387DBA8840204D3 done [Deployment ID: none]. (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.994533] Deployment ended at 2026-09-16 10:11:50 (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:50.995431] (4s 64ms) (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.012270] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.012305] npm notice New major version of npm available! 11.16.0 -> 12.0.2 (STDERR, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.012310] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.0.2 (STDERR, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.012312] npm notice To update run: npm install -g npm@12.0.2 (STDERR, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.012324] npm notice (STDERR, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.086973] Exit status 0 (STDOUT, APP/TASK/deploy)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.706665] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance da9910e4-4183-45bc-9349-f2b2f5725cf3 (STDOUT, CELL)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:51.706699] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance da9910e4-4183-45bc-9349-f2b2f5725cf3 (STDOUT, CELL)#
+#2026 09 16 10:12:00.478#Z#DEBUG#d1c92348-b1b6-11f1-bf33-eeee0a8e3dbc.AiCap-db-deployer#flowable-async-job-executor-thread-15980#
+[PollExecuteTaskStatusExecution] dad81658-f021-4cc0-9bfc-3be4499c725a [2026-09-16T10:11:54.784500] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance da9910e4-4183-45bc-9349-f2b2f5725cf3 (STDOUT, CELL)#
