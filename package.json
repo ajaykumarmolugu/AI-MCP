@@ -1,0 +1,20 @@
+{
+  "name": "ollama-langchain-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@langchain/core": "^1.2.11",
+    "@langchain/ollama": "^1.3.0",
+    "@sap/cds": "^10",
+    "dotenv": "^17.4.2",
+    "langchain": "^1.5.11",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^3"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "private": true
+}

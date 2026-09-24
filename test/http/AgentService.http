@@ -1,0 +1,14 @@
+@server=http://localhost:4004
+@username=alice
+@password=
+
+
+### askAgent
+# @name askAgent_POST
+POST {{server}}/odata/v4/agent/askAgent
+Content-Type: application/json
+Authorization: Basic {{username}}:{{password}}
+
+{
+  "question": "working"
+}
